@@ -1,8 +1,8 @@
 import requests
 
 # Api keys for geocoding and weather
-owm_api_key = '449e45d9180ad562a04a6346c1899de3'
-myptv_api_key = 'YmExMzExMjliZTEwNDhhMThkMmYxYjI5ZDdlNWI3Zjg6MTJjYWFjNTEtMDgzZi00ZjNiLTg2MWYtYzUyYWQyMzY1NTM1'
+owm_api_key = ''
+myptv_api_key = ''
 
 
 # A function that gets the latitude and longitude of a given postal code for the United States. Uses the MyPTV
